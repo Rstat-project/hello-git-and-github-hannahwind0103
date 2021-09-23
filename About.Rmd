@@ -1,6 +1,6 @@
 ---
 title: "自我介紹"
-author: "My name"
+author: "Nai-Qi Chen"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -20,12 +20,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 我從那裡來？ 
 
-NULL
+心理所碩一
 
 - 我決定來這裡的動機？
 
-NULL
+學習心理學需要的統計知識
 
 - 我對這門課的期望？
 
-NULL
+希望可以對研究執行更有幫助
